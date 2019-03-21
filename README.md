@@ -15,4 +15,13 @@ URL of the hosted Application: http://ec2-13-127-45-56.ap-south-1.compute.amazon
 #### Git : version control tool
 #### python3: To run the flask web application.
 
+## List of third party tools used:
 
+#### Putty : TO connect to the server
+#### Puttygen : To generate the SSH Key-pair
+
+## SSH Key path on server for grader user:
+
+```sh
+/home/grader/.ssh/authorized_keys
+```
