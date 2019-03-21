@@ -1,0 +1,2 @@
+# LinuxConfiguration
+Server details 
